@@ -7,7 +7,6 @@
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-cyan?style=for-the-badge&logo=download&logoColor=black "Download")](https://github.com/LxslyS2/Roblox-Account-Profile-Managament/archive/refs/heads/main.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
-[Click here to view Roblox Account Manager features](https://github.com/ic3w0lf22/Roblox-Account-Manager/blob/master/README.md#features)
 
 # Roblox Account Manager
 Application that allows you to add multiple accounts into one application allowing you to easily play on alt accounts without having to change accounts
