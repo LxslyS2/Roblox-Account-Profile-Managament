@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="team_KX4_icon_white" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\team_KX4_icon_white.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="online" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\online.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="team_KX4_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\team_KX4_icon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="configIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\configIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="disc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\disc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SaveIconSmall" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SaveIconSmall.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="donation" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\donation.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="server_icon_white" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\server_icon_white.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="offline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\offline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_history_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-history-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DefaultTheme" xml:space="preserve">
+    <value>[Roblox Account Manager]
+AccountsBG=#1E1F28
+AccountsFG=#FFFFFF
+ButtonsBG=#292929
+ButtonsFG=#FFFFFF
+ButtonsBC=#282828
+ButtonStyle=Popup
+FormsBG=#292929
+FormsFG=#FFFFFF
+DarkTopBar=True
+LightImages=True
+LabelsTransparent=True
+ShowHeaders=True
+TextBoxesBG=#3A3A3A
+TextBoxesFG=#FFFFFF
+TextBoxesBC=#282828</value>
+  </data>
+  <data name="ShuffleIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shuffle-crossing-arrows.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="handle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\handle.exe;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="NexusLoader" xml:space="preserve">
+    <value>Nexus_Version = 104
+
+local FileName, Success, Error, Function = 'ic3w0lf22.Nexus.lua'
+
+if isfile and readfile and isfile(FileName) then -- Execute ASAP, update later.
+	Function, Error = loadstring(readfile(FileName), 'Nexus')
+
+	if Function then
+		Function()
+
+		if Nexus then Nexus:Connect() end
+	end
+end
+
+for i=1, 10 do
+	Success, Error = pcall(function()
+		local Response = (http_request or (syn and syn.request)) { Method = 'GET', Url = 'https://raw.githubusercontent.com/ic3w0lf22/Roblox-Account-Manager/master/RBX%20Alt%20Manager/Nexus/Nexus.lua' }
+
+		if not Response.Success then error(('HTTP Error %s'):format(Response.StatusCode)) end
+
+		Function, Error = loadstring(Response.Body, 'Nexus')
+
+		if not Function then error(Error) end
+
+		if isfile and not isfile(FileName) then
+			writefile(FileName, Response.Body)
+		end
+		
+		if not Nexus then -- Nexus was already ran earlier, this will update the existing file to the latest version instead of re-creating Nexus
+			Function()
+			Nexus:Connect()
+		end
+	end)
+	
+	if Success then break else task.wait(1) end
+end
+
+if not Success and Error then
+	(messagebox or print)(('Nexus encountered an error while launching!\n\n%s'):format(Error), 'Roblox Account Manager', 0)
+end</value>
+  </data>
+  <data name="libsodium" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libsodium.dll;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="App" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\app.config;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="AppConfigHash" xml:space="preserve">
+    <value>5E0BA1895CF088E6D6907B8ABBD8CD41C86F39CC642351A9AB0BF458BF1F5B31</value>
+  </data>
+  <data name="log4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\log4.config;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Log4ConfigHash" xml:space="preserve">
+    <value>E4B10630D9EC2AF508DE31752FBBC6816C7426C40A3E57F0A085CE7F42C77BD5</value>
+  </data>
+  <data name="ManualInstallHTML" xml:space="preserve">
+    <value>&lt;style&gt;*{{color:rgba(232,230,227,1);font-family:Arial,Helvetica,sans-serif}}a{{color:#4892f1}}li{{font-size:20px}}body{{background-color:#131516}}code{{background-color:rgba(255,255,255,.12);font-size:18px}}&lt;/style&gt;&lt;script crossorigin=anonymous integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw=="referrerpolicy=no-referrer src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js&gt;&lt;/script&gt;&lt;script crossorigin=anonymous integrity="sha512-lbwH47l/tPXJYG9AcFNoJaTMhGvYWhVM9YI43CT+uteTRRaiLCui8snIgyAN8XWgNjNhCqlAUdzZptso6OCoFQ=="referrerpolicy=no-referrer src=https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.js&gt;&lt;/script&gt;&lt;link crossorigin=anonymous href=https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.css integrity="sha512-oe8OpYjBaDWPt2VmSFR+qYOdnTjeV9QPLJUeqZyprDEQvQLJ9C5PCFclxwNuvb/GQgQngdCXzKSFltuHD3eCxA=="referrerpolicy=no-referrer rel=stylesheet&gt;&lt;div style="padding:10px 25px"&gt;&lt;h1&gt;How to manually install {0} for Roblox Account Manager&lt;/h1&gt;&lt;ol&gt;&lt;li&gt;Close Roblox Account Manager first&lt;li&gt;Download the {0} ZIP file by clicking &lt;a href={1}&gt;here&lt;/a&gt; or by going to &lt;code&gt;{1}&lt;/code&gt;&lt;li&gt;Open the ZIP file and extract the folder named “{2}” to &lt;code&gt;{3}&lt;/code&gt;&lt;li&gt;Relaunch Roblox Account Manager&lt;/ol&gt;&lt;h2&gt;&lt;a href="https://youtu.be/yC5g22aXYlQ"&gt;Tutorial Video&lt;/a&gt;&lt;/h2&gt;&lt;iframe width="1366" height="768" src="https://www.youtube.com/embed/yC5g22aXYlQ" title="how to manually install chromium for account manager" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script&gt;toastr.options.timeOut=2e3,toastr.options.preventDuplicates=!0,toastr.options.positionClass="toast-top-right",$("code").each((function(){{$(this).on("click",(function(){{!async function(t){{await navigator.clipboard.writeText(t),toastr.success("Copied to clipboard!")}}($(this)[0].innerText)}}))}}));&lt;/script&gt;</value>
+  </data>
+  <data name="CefSharpDownload" xml:space="preserve">
+    <value>https://github.com/ic3w0lf22/Roblox-Account-Manager/releases/download/3.5.2/CEF.zip</value>
+  </data>
+</root>
